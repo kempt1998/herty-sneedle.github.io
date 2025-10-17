@@ -1,0 +1,1 @@
+Complete single-page site for Herty's Needle. Replace placeholders with real images and set form endpoints.
